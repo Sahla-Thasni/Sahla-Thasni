@@ -15,25 +15,21 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,ts,tailwind,materialui&perline=9" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,ts,materialui" />
 
 ### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs&perline=4" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,flask" />
 
 ### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres&perline=1" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres" />
 
 ### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,vercel" />
+
+</div>
 
 ## 🚀 Projects
 
