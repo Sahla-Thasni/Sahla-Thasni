@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sahla Thasni 👋
 
-<!--
-**Sahla-Thasni/Sahla-Thasni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I build responsive web applications using modern frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 💻 Interested in full-stack web development.
+- ⚛️ Working with React.js, Next.js, and TypeScript.
+- 🐍 Developing backend applications using Python and Django REST Framework.
+- 🗄️ Working with PostgreSQL and REST APIs.
+- 🤝 Contributed to a team CRM project and developed personal e-commerce projects.
+- 🌱 Continuously learning and improving my development skills.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Bootstrap, Material UI
+
+**Backend:** Python, Django, Django REST Framework, Flask
+
+**Database:** PostgreSQL, SQL
+
+**Tools:** Git, GitHub, GitLab, Postman, VS Code, Vercel
+
+## 🚀 Projects
+
+- **CRM System** — Team project involving CRM detail pages, activity management, REST APIs, and CRUD operations.
+- **STYLE.CO** — Full-stack e-commerce application built with React.js and Django.
+- **Shopping World** — Responsive e-commerce frontend built with Next.js and Bootstrap.
+
+## 📫 Connect With Me
+
+- **Email:** sahlathasniparamban@gmail.com
+- **GitHub:** [Sahla-Thasni](https://github.com/Sahla-Thasni)
