@@ -36,7 +36,7 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 - Developed CRM detail pages with reusable UI components and responsive layouts.
 - Implemented activity management features, REST APIs, and CRUD operations.
 - 💻 [GitHub Repository](YOUR_CRM_GITHUB_REPOSITORY_LINK)
-- 🌐 [Live Demo]([YOUR_CRM_LIVE_DEMO_LINK](https://crm-live-project-frontend-5h5x.vercel.app/))
+- 🌐 [Live Demo](https://crm-live-project-frontend-5h5x.vercel.app/)
 
 ### 2. STYLE.CO – E-Commerce Web Application
 **Personal Project | React.js, Redux Toolkit, Python, Django REST Framework, PostgreSQL**
