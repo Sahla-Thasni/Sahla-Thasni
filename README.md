@@ -54,10 +54,7 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Sahla-Thasni">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <a href="YOUR_LINKEDIN_PROFILE_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -67,4 +64,4 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
   <a href="https://ecommerce-app-next-seven.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+
