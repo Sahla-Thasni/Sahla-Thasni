@@ -61,7 +61,5 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
   <a href="mailto:sahlathasniparamban@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ecommerce-app-next-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
 
