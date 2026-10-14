@@ -15,8 +15,6 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
