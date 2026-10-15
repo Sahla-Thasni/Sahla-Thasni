@@ -43,7 +43,7 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 
 - Developed a full-stack e-commerce application with product management, shopping cart, checkout, and order history.
 - Integrated REST APIs, JWT authentication, and Redux Toolkit for state management.
-- 💻 [GitHub Repository](https://github.com/Sahla-Thasni/style-co-ecommerce)
+💻 [GitHub Repository](https://github.com/Sahla-Thasni/style-co-ecommerce)
 
 ### 3. Shopping World – E-Commerce Frontend
 **Personal Mini Project | Next.js, React.js, Bootstrap 5**
