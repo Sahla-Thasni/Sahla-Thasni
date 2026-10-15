@@ -49,7 +49,7 @@ Full Stack Developer based in Dubai, UAE — building responsive, real-world web
 **Personal Mini Project | Next.js, React.js, Bootstrap 5**
 
 - Developed a responsive e-commerce frontend with product listings, product details, and shopping cart functionality.
-- 💻 [GitHub Repository](YOUR_SHOPPING_WORLD_GITHUB_REPOSITORY_LINK)
+- 💻 [GitHub Repository](YOUR_SHOPPING_WORLD_GITHUB_REPOSITORY_LINK](https://github.com/Sahla-Thasni/ecommerce-app-next)
 - 🌐 [Live Demo](https://ecommerce-app-next-seven.vercel.app/)
 
 ## 🤝 Connect With Me
